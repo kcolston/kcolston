@@ -7,8 +7,13 @@
 
 <h2> 📚 Degree: </h2>
 
+ - Associates of Applied Science Cyber Security, Houston Community College
+
 
 <h2> 📄 Certifications: </h2>
+
+ - Level 1 Cyber Security Certificate, Houston Community College
+ - Level 2 Cyber Security Certificate, Houston Community College
 
 
 <h2> 🤳 Connect with me:</h2>
