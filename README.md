@@ -14,6 +14,7 @@
 
  - Level 1 Cyber Security Certificate, Houston Community College
  - Level 2 Cyber Security Certificate, Houston Community College
+ - Intro To Cyber Security, TryHackMe.com
 
 
 <h2> 🤳 Connect with me:</h2>
